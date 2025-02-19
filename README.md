@@ -2,7 +2,8 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## This is my Task Management App
+## Task Management App
+I create this task management app using React Native Expo and Redux fot state management, and i used the react-nativepaper library for better UI, and i used expo-router to navigate from one page to another page and more.
 
 ## Get started
 
