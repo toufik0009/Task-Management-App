@@ -1,5 +1,5 @@
 # Welcome to Task Management App 👋
-I create this task management app using React Native Expo and Redux fot state management, and i used the react-nativepaper library for better UI, and i used expo-router to navigate from one page to another page and more.
+I create this task management app using React Native Expo and Redux fot state management, and i used the react-native-paper library for better UI, and i used expo-router to navigate from one page to another page and more.
 
 ## Get started
 
